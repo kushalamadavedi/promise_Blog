@@ -6,7 +6,7 @@ const titleControl = document.getElementById('title');
 const contentControl = document.getElementById('content');
 const cardContainer =document.getElementById('cardContainer');
 
-let blogArr = [
+let blogArr = [  
     {
       title : "Es6",
       content : "ECMAScript 2015 is also known as ES6 and ECMAScript 6. This chapter describes the most important features of ES6.",
